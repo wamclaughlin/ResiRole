@@ -28,6 +28,7 @@ for file in os.listdir(file_home):
     if file == 'Pipeline_prints.txt':
         os.system('rm ' + file_home + 'Pipeline_prints.txt')
 
+#test
 ##############################################################
 # Gather weekly data from CAMEO into appropriate directories #
 ##############################################################
