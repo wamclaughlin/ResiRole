@@ -39,8 +39,9 @@ The scripts and directory structure provided here are designed to provide any us
 the /ResiRole/FEATURE/feature-3.0.0/ directory. Note that ResiRole currently uses FEATURE version 3.0.0.
 6. You may now run ResiRole by executing the main script.
 
-
 The accompanying study () was performed using approximately four years' worth of data from CAMEO ranging from May 30, 2014 to Feb 24, 2018 (available upon request from CAMEO). Results in this study were obtained utilizing the exact same algorithms in these scripts.
+
+Everything needed to install and work with ResiRole is included in the zip file ResiRole.tar.gz. Alongside we include a folder containing the python scripts through which it is implemented. We encourage users to submit pull requests and offer their contributions to ResiRole through this separate folder. 
 
 Please contact us with any comments, concerns, or requests of additional information:
 
