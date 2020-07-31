@@ -48,5 +48,5 @@ Please contact us with any comments, concerns, or requests of additional informa
 If you utilize these scripts for your work, please cite the following reference:
     ResiRole: Residue-Level Functional Site Predictions to Gauge the Accuracies of Protein Structure Prediction Techniques. Joshua M. Toth, Paul J. Depietro, Juergen Haas, and William A. McLaughlin. (Publication Under Review).
 
-These scripts are provided under an Open Source licence. The ResiRole name is protected by international copyright, trademark, and other laws. You may download and modify these scripts for your personal use provided that you keep intact all authorship, copyright, and other proprietary notices. In addition, please refer to the licensing conditions and policies of CAMEO and FEATURE.
+These scripts are provided under an GNU General Public License v3.0. The ResiRole name is protected by international copyright, trademark, and other laws. You may download and modify these scripts for your personal use provided that you keep intact all authorship, copyright, and other proprietary notices. In addition, please refer to the licensing conditions and policies of CAMEO and FEATURE.
 
